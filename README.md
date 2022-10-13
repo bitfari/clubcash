@@ -1,4 +1,5 @@
-# clubcash
+# Club Cash
+
 Club Cash NFTs are the first semi-fungible tokens on Stacks used to mint digital land
 
 ### Club Cash Purchases of Digital Land via semifungigle Club NFTs 
